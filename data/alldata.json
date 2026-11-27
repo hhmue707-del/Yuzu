@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-27T02:38:51Z",
+ "generated": "2026-11-27T02:51:38Z",
  "chats": [
   {
    "id": 8837432063,
@@ -35,7 +35,18 @@
    "username": "mei_aihara_yuzu",
    "added_by": {},
    "first_seen": "2026-11-27T02:38:19Z",
-   "last_seen": "2026-11-27T02:38:23Z",
+   "last_seen": "2026-11-27T02:48:56Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 9273924951,
+   "type": "private",
+   "title": "Nova Baker",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-27T02:51:19Z",
+   "last_seen": "2026-11-27T02:51:19Z",
    "status": "active",
    "last_error": ""
   }
