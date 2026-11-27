@@ -1,7 +1,34 @@
 {
  "version": 1,
- "generated": "2026-11-27T02:22:19Z",
- "chats": [],
+ "generated": "2026-11-27T02:24:35Z",
+ "chats": [
+  {
+   "id": 8837432063,
+   "type": "private",
+   "title": "Dean",
+   "username": "DeanOfc",
+   "added_by": {},
+   "first_seen": "2026-11-27T02:24:03Z",
+   "last_seen": "2026-11-27T02:24:11Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1005683920304,
+   "type": "supergroup",
+   "title": "𝐑𝐞𝐳𝐞 & 𝐅𝐚𝐦𝐢𝐥𝐲𝐡𝐨𝐨𝐝",
+   "username": "RezeFamily",
+   "added_by": {
+    "id": 8837432063,
+    "name": "Dean",
+    "username": "DeanOfc"
+   },
+   "first_seen": "2026-11-27T02:24:31Z",
+   "last_seen": "2026-11-27T02:24:31Z",
+   "status": "active",
+   "last_error": ""
+  }
+ ],
  "removed": {},
  "meta": {
   "last_daily": "2026-11-27",
