@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-27T02:24:35Z",
+ "generated": "2026-11-27T02:38:51Z",
  "chats": [
   {
    "id": 8837432063,
@@ -9,7 +9,7 @@
    "username": "DeanOfc",
    "added_by": {},
    "first_seen": "2026-11-27T02:24:03Z",
-   "last_seen": "2026-11-27T02:24:11Z",
+   "last_seen": "2026-11-27T02:35:46Z",
    "status": "active",
    "last_error": ""
   },
@@ -24,7 +24,18 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-27T02:24:31Z",
+   "last_seen": "2026-11-27T02:30:30Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 6445321163,
+   "type": "private",
+   "title": "Oumi Shiori",
+   "username": "mei_aihara_yuzu",
+   "added_by": {},
+   "first_seen": "2026-11-27T02:38:19Z",
+   "last_seen": "2026-11-27T02:38:23Z",
    "status": "active",
    "last_error": ""
   }
