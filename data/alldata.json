@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-27T05:05:58Z",
+ "generated": "2026-11-27T05:29:14Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-27T04:48:33Z",
+   "last_seen": "2026-11-27T05:28:21Z",
    "status": "active",
    "last_error": ""
   },
@@ -47,6 +47,17 @@
    "added_by": {},
    "first_seen": "2026-11-27T02:51:19Z",
    "last_seen": "2026-11-27T02:51:19Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 9274314556,
+   "type": "private",
+   "title": "Roki",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-27T05:28:48Z",
+   "last_seen": "2026-11-27T05:28:48Z",
    "status": "active",
    "last_error": ""
   }
