@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T12:13:52Z",
+ "generated": "2026-11-28T12:16:53Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-28T12:13:22Z",
+   "last_seen": "2026-11-28T12:16:19Z",
    "status": "active",
    "last_error": ""
   },
@@ -84,6 +84,17 @@
    },
    "first_seen": "2026-11-28T11:48:45Z",
    "last_seen": "2026-11-28T11:57:50Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 8981097486,
+   "type": "private",
+   "title": "Cisa Oo",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-28T12:16:28Z",
+   "last_seen": "2026-11-28T12:16:33Z",
    "status": "active",
    "last_error": ""
   }
