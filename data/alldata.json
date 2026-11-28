@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T12:25:54Z",
+ "generated": "2026-11-28T12:27:26Z",
  "chats": [
   {
    "id": 8837432063,
@@ -109,7 +109,7 @@
     "username": "iamviewjuner"
    },
    "first_seen": "2026-11-28T12:25:52Z",
-   "last_seen": "2026-11-28T12:25:53Z",
+   "last_seen": "2026-11-28T12:27:23Z",
    "status": "active",
    "last_error": ""
   }
