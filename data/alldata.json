@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T06:15:03Z",
+ "generated": "2026-11-28T06:39:50Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-28T06:14:44Z",
+   "last_seen": "2026-11-28T06:37:44Z",
    "status": "active",
    "last_error": ""
   },
@@ -58,6 +58,17 @@
    "added_by": {},
    "first_seen": "2026-11-27T05:28:48Z",
    "last_seen": "2026-11-27T05:28:48Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 5426103309,
+   "type": "private",
+   "title": "𝐊𝐚𝐧𝐨",
+   "username": "iamviewjuner",
+   "added_by": {},
+   "first_seen": "2026-11-28T06:39:39Z",
+   "last_seen": "2026-11-28T06:39:39Z",
    "status": "active",
    "last_error": ""
   }
