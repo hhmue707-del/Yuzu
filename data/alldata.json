@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T14:09:32Z",
+ "generated": "2026-11-28T14:39:34Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-28T13:52:43Z",
+   "last_seen": "2026-11-28T14:24:05Z",
    "status": "active",
    "last_error": ""
   },
@@ -109,7 +109,7 @@
     "username": "iamviewjuner"
    },
    "first_seen": "2026-11-28T12:25:52Z",
-   "last_seen": "2026-11-28T13:42:01Z",
+   "last_seen": "2026-11-28T14:15:17Z",
    "status": "active",
    "last_error": ""
   }
