@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T11:43:04Z",
+ "generated": "2026-11-28T11:49:05Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-28T11:42:25Z",
+   "last_seen": "2026-11-28T11:49:05Z",
    "status": "active",
    "last_error": ""
   },
@@ -69,6 +69,21 @@
    "added_by": {},
    "first_seen": "2026-11-28T06:39:39Z",
    "last_seen": "2026-11-28T06:39:39Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1005876521568,
+   "type": "supergroup",
+   "title": "Bot",
+   "username": "",
+   "added_by": {
+    "id": 8623137616,
+    "name": "ᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟ",
+    "username": "Nyx249"
+   },
+   "first_seen": "2026-11-28T11:48:45Z",
+   "last_seen": "2026-11-28T11:49:04Z",
    "status": "active",
    "last_error": ""
   }
