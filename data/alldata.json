@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T12:32:42Z",
+ "generated": "2026-11-28T13:02:44Z",
  "chats": [
   {
    "id": 8837432063,
@@ -24,7 +24,7 @@
     "username": "DeanOfc"
    },
    "first_seen": "2026-11-27T02:24:31Z",
-   "last_seen": "2026-11-28T12:16:19Z",
+   "last_seen": "2026-11-28T12:44:17Z",
    "status": "active",
    "last_error": ""
   },
@@ -94,7 +94,7 @@
    "username": "",
    "added_by": {},
    "first_seen": "2026-11-28T12:16:28Z",
-   "last_seen": "2026-11-28T12:32:17Z",
+   "last_seen": "2026-11-28T12:34:24Z",
    "status": "active",
    "last_error": ""
   },
@@ -109,7 +109,7 @@
     "username": "iamviewjuner"
    },
    "first_seen": "2026-11-28T12:25:52Z",
-   "last_seen": "2026-11-28T12:32:25Z",
+   "last_seen": "2026-11-28T12:40:46Z",
    "status": "active",
    "last_error": ""
   }
