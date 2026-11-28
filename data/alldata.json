@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-28T12:16:53Z",
+ "generated": "2026-11-28T12:25:54Z",
  "chats": [
   {
    "id": 8837432063,
@@ -94,7 +94,22 @@
    "username": "",
    "added_by": {},
    "first_seen": "2026-11-28T12:16:28Z",
-   "last_seen": "2026-11-28T12:16:33Z",
+   "last_seen": "2026-11-28T12:25:47Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1004458490919,
+   "type": "supergroup",
+   "title": "♡𝑩𝒍𝒐𝒐𝒎𝒊𝒏𝒈 𝑯𝒆𝒂𝒓𝒕𝒔♡",
+   "username": "BloomingHeartsWorld419",
+   "added_by": {
+    "id": 5426103309,
+    "name": "𝐊𝐚𝐧𝐨",
+    "username": "iamviewjuner"
+   },
+   "first_seen": "2026-11-28T12:25:52Z",
+   "last_seen": "2026-11-28T12:25:53Z",
    "status": "active",
    "last_error": ""
   }
